@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{63D0FA9D-101A-456E-7ABA-5359FA86D6C7}") = "VRollVR", "Assembly-CSharp.csproj", "{5D3495F9-4B8A-B3CF-F99C-F607F43C2286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3495F9-4B8A-B3CF-F99C-F607F43C2286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3495F9-4B8A-B3CF-F99C-F607F43C2286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3495F9-4B8A-B3CF-F99C-F607F43C2286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3495F9-4B8A-B3CF-F99C-F607F43C2286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
